@@ -1,8 +1,22 @@
 body{background-color:  #E0F4FF;}
 
-h1{color: #66BFBF;}
-h2{color: #66BFBF;}
-h3{color: #66BFBF;}
+h1{
+color: #66BFBF; 
+text-shadow: 2px 2px 5px #80B3FF;
+font-family: Georgia, "Times New Roman", serif;
+font-style: oblique;
+}
+p{
+font-size: 20px;
+}
+
+
+h2{
+color: #66BFBF;  
+}
+h3{
+color: #66BFBF;
+}
 
 hr{border-width: 7px;
    border-color: #0174BE;
